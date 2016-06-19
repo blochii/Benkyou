@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<cites>
+	<city>
+		<name>函館</name>
+		<date>2016/06/19</date>
+		<text>帰りたい</text>
+		<photo>image/001.jpg</photo>
+	</city>
+	<city>
+		<name>東京</name>
+		<date>2016/06/10</date>
+		<text>くさい</text>
+		<photo>image/002.jpg</photo>
+	</city>
+</cites>
